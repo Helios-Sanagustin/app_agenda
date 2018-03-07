@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">
+        Contact List
+    </string>
+
+    <!-- Mensaje de error -->
+    <string name ="campos_vacios">
+        empty fields, try again
+    </string>
+
+    <!-- Mensaje de info -->
+    <string name="guardado_correcto">
+        Registration saved correctly
+    </string>
+
+</resources>

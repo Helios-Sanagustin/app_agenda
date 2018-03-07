@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AgendaContactos</string>
+
+    <!-- Mensaje de error -->
+    <string name ="campos_vacios">
+        campos vacios, intente de nuevo
+    </string>
+
+    <!-- Mensaje de info -->
+    <string name="guardado_correcto">
+        El registro se ha guardado correctamente
+    </string>
+
+</resources>
